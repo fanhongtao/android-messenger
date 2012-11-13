@@ -33,6 +33,7 @@ public class MainActivity extends TabActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         addTabView(getString(R.string.title_activity_sms_list), null, SmsListActivity.class);
+        addTabView(getString(R.string.title_activity_sms_filter), null, SmsFilterActivity.class);
     }
 
     protected void addTabView(String tabId, Drawable icon, Class<?> viewClass) {

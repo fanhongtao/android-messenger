@@ -5,7 +5,7 @@
     <string name="title_activity_main">Messenger</string>
     <string name="title_activity_sms_list">SMS List</string>
     <string name="title_activity_sms_thread_list">SMS Thread List</string>
-    <string name="title_activity_sms_thread_viewer">SMS Thread Viewer</string>
+    <string name="title_activity_sms_filter">SMS Filter</string>
     <string name="sms_content">Sms Content</string>
     <string name="sms_sender">SMS Sender</string>
     <string name="sms_send_time">Send Time</string>
@@ -14,5 +14,5 @@
     <string name="view">View</string>
     <string name="sms_date_format">yyyy-mm-dd hh:mm:ss</string>
     <string name="sms_count">Count</string>
-    
+    <string name="filter_number">Filter Number</string>
 </resources>
